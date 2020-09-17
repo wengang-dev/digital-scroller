@@ -1,0 +1,10 @@
+.container {
+  overflow: hidden;
+}
+
+.move {
+  transition: all linear;
+  display: inline-block;
+  white-space: nowrap;
+}
+
